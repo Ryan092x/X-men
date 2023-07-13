@@ -17,8 +17,11 @@ O Projeto tem o objetivo de simular a tela inicial de um jogo onde podemos selec
 
 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://ryan092x.github.io/X-men/):target="_blank"
+![X-Men project](https://github.com/Ryan092x/X-men/assets/137851758/5f168f62-aa8f-4f47-bc4a-37c94ba17cfd)
 
-📝 Licença
+📝 Licença!
+
 
 Esse projeto está sob a licença MIT.
+
+
