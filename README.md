@@ -1,6 +1,4 @@
 # Seletor de Personagens
-Seletor de Personagens com Tema X-Men.
-
 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -19,7 +17,7 @@ O Projeto tem o objetivo de simular a tela inicial de um jogo onde podemos selec
 
 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://ryan092x.github.io/X-men/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://ryan092x.github.io/X-men/){:target="_blank"}.
 
 📝 Licença
 
