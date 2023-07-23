@@ -7,8 +7,6 @@ HTML e CSS
 
 JavaScript
 
-Git e Github
-
 Figma
 
 💻 Projeto
